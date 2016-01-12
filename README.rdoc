@@ -103,5 +103,12 @@ HHH
 HHH
 HHH
 HHH
+<<<<<<< HEAD
 HHH
 123456
+=======
+888888
+HHH
+HHH
+HHH
+>>>>>>> master
